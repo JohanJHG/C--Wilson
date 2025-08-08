@@ -1,0 +1,14 @@
+C:\Users\johan\Desktop\C#-Wilson\bin\Debug\net9.0\C#-Wilson.exe
+C:\Users\johan\Desktop\C#-Wilson\bin\Debug\net9.0\C#-Wilson.deps.json
+C:\Users\johan\Desktop\C#-Wilson\bin\Debug\net9.0\C#-Wilson.runtimeconfig.json
+C:\Users\johan\Desktop\C#-Wilson\bin\Debug\net9.0\C#-Wilson.dll
+C:\Users\johan\Desktop\C#-Wilson\bin\Debug\net9.0\C#-Wilson.pdb
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.AssemblyInfo.cs
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.dll
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\refint\C#-Wilson.dll
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.pdb
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.genruntimeconfig.cache
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\ref\C#-Wilson.dll

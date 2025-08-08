@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "C#-Wilson/1.0.0": {
+        "runtime": {
+          "C#-Wilson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#-Wilson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
