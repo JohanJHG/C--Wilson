@@ -1,0 +1,15 @@
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.AssemblyInfo.cs
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.sourcelink.json
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\bin\Debug\net9.0\actividadMonedas.exe
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\bin\Debug\net9.0\actividadMonedas.deps.json
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\bin\Debug\net9.0\actividadMonedas.runtimeconfig.json
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\bin\Debug\net9.0\actividadMonedas.dll
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\bin\Debug\net9.0\actividadMonedas.pdb
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.dll
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\refint\actividadMonedas.dll
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.pdb
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\actividadMonedas.genruntimeconfig.cache
+C:\Users\johan\Desktop\C#-Wilson\actividadMonedas\obj\Debug\net9.0\ref\actividadMonedas.dll

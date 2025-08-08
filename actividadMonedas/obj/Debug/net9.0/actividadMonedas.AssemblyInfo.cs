@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("C#-Wilson")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("actividadMonedas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4901f8949a53aa46e14dd8106bf8764c6b969633")]
-[assembly: System.Reflection.AssemblyProductAttribute("C#-Wilson")]
-[assembly: System.Reflection.AssemblyTitleAttribute("C#-Wilson")]
+[assembly: System.Reflection.AssemblyProductAttribute("actividadMonedas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("actividadMonedas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
