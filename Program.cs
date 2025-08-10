@@ -192,12 +192,3 @@ else
     Console.WriteLine("Rango 4: Rodillas con inflamación severa.");
 }
 
-/* 
-    Crear un cajero con 3 opciones:
-    1. Consultar saldo.
-    2. retirar dinero.
-    3. Salir del cajero.
-    el saldo inicial es de 500000, si se elige retirar, debe solicitar el monto a retirar y verificar que haya suficiente saldo.
-    Desontar el retiro del saldo, mostrar el saldo actualizado
-    Mostrar un mensaje de despedida, realizar correctamente las validaaciones de errores y mostrar mensajes adecuados al usuario.
-*/

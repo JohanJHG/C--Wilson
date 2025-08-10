@@ -1,0 +1,15 @@
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\bin\Debug\net9.0\actividadCajero.exe
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\bin\Debug\net9.0\actividadCajero.deps.json
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\bin\Debug\net9.0\actividadCajero.runtimeconfig.json
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\bin\Debug\net9.0\actividadCajero.dll
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\bin\Debug\net9.0\actividadCajero.pdb
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.AssemblyInfo.cs
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.sourcelink.json
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.dll
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\refint\actividadCajero.dll
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.pdb
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\actividadCajero.genruntimeconfig.cache
+C:\Users\johan\Desktop\C#-Wilson\actividadCajero\obj\Debug\net9.0\ref\actividadCajero.dll
