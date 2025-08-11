@@ -58,7 +58,6 @@
 
 // // if con operadores lógicos - Validaciones con si/no
 
-
 /*
 
 Console.WriteLine("¿Es soltero? (si/no): ");
@@ -127,7 +126,7 @@ else
 }
  */
 
-/* 
+/*
     Crear un menu con las siguientes opciones:
     1. Mostrar la fecha actual.
     2. Mostrar su nombre.
@@ -138,57 +137,63 @@ else
 
 using System.Globalization;
 
-Console.Clear();
-Console.WriteLine("Selecciona una opcion:");
-Console.WriteLine("Mostrar la fecha actual:");
-Console.WriteLine("Mostrar su nombre:");
-Console.WriteLine("Mostrar un mensaje motivador:");
-Console.WriteLine("Salir del programa:");
+string continuar;
+do
+{
+    Console.Clear();
+    Console.WriteLine("Selecciona una opcion:");
+    Console.WriteLine("Mostrar la fecha actual:");
+    Console.WriteLine("Mostrar su nombre:");
+    Console.WriteLine("Mostrar un mensaje motivador:");
+    Console.WriteLine("Salir del programa:");
 
-sbyte opcion = sbyte.Parse(Console.ReadLine());
+    sbyte opcion = sbyte.Parse(Console.ReadLine() ?? "0");
 
-switch (opcion)
-{
-    case 1:
-        Console.WriteLine($"Fecha actual: {DateTime.Now}");
-        break;
-    case 2:
-        Console.WriteLine("Tu nombre es: Johan");
-        break;
-    case 3:
-        Console.WriteLine("¡Sigue adelante, cada día es una nueva oportunidad!");
-        break;
-    case 4:
-        Console.WriteLine("Saliendo del programa...");
-        break;
-    default:
-        Console.WriteLine("Opción no válida. Por favor, selecciona una opción del menú.");
-        break;
-}
+    switch (opcion)
+    {
+        case 1:
+            Console.WriteLine($"Fecha actual: {DateTime.Now}");
+            break;
+        case 2:
+            Console.WriteLine("Tu nombre es: Johan");
+            break;
+        case 3:
+            Console.WriteLine("¡Sigue adelante, cada día es una nueva oportunidad!");
+            break;
+        case 4:
+            Console.WriteLine("Saliendo del programa...");
+            break;
+        default:
+            Console.WriteLine("Opción no válida. Por favor, selecciona una opción del menú.");
+            break;
+    }
 
-// determinar en una aplicacion de consola, donde se definan 4 a 5 rangos con respecto a valgo de rodillas
-// y se imprima un mensaje dependiendo del rango en el que se encuentre el valor ingresado por el usuario.
+    // determinar en una aplicacion de consola, donde se definan 4 a 5 rangos con respecto a valgo de rodillas
+    // y se imprima un mensaje dependiendo del rango en el que se encuentre el valor ingresado por el usuario.
 
-Console.WriteLine("Ingrese el valor de sus rodillas:");
-int valorRodillas = int.Parse(Console.ReadLine());
-if (valorRodillas < 0)
-{
-    Console.WriteLine("Valor de rodillas no puede ser negativo.");
-}
-else if (valorRodillas >= 0 && valorRodillas < 20)
-{
-    Console.WriteLine("Rango 1: Rodillas en buen estado.");
-}
-else if (valorRodillas >= 20 && valorRodillas < 40)
-{
-    Console.WriteLine("Rango 2: Rodillas con ligera inflamación.");
-}
-else if (valorRodillas >= 40 && valorRodillas < 60)
-{
-    Console.WriteLine("Rango 3: Rodillas con inflamación moderada.");
-}
-else
-{
-    Console.WriteLine("Rango 4: Rodillas con inflamación severa.");
-}
+    Console.WriteLine("Ingrese el valor de sus rodillas:");
+    int valorRodillas = int.Parse(Console.ReadLine() ?? "0");
+    if (valorRodillas < 0)
+    {
+        Console.WriteLine("Valor de rodillas no puede ser negativo.");
+    }
+    else if (valorRodillas >= 0 && valorRodillas < 20)
+    {
+        Console.WriteLine("Rango 1: Rodillas en buen estado.");
+    }
+    else if (valorRodillas >= 20 && valorRodillas < 40)
+    {
+        Console.WriteLine("Rango 2: Rodillas con ligera inflamación.");
+    }
+    else if (valorRodillas >= 40 && valorRodillas < 60)
+    {
+        Console.WriteLine("Rango 3: Rodillas con inflamación moderada.");
+    }
+    else
+    {
+        Console.WriteLine("Rango 4: Rodillas con inflamación severa.");
+    }
 
+    Console.WriteLine("¿Desea repetir? (si/no)");
+    continuar = Console.ReadLine()?.ToLower() ?? "no";
+} while (continuar == "si");

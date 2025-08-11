@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("C#-Wilson")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("bucles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec2d2f803f35d4f72b01824eebb60d9eac8300eb")]
-[assembly: System.Reflection.AssemblyProductAttribute("C#-Wilson")]
-[assembly: System.Reflection.AssemblyTitleAttribute("C#-Wilson")]
+[assembly: System.Reflection.AssemblyProductAttribute("bucles")]
+[assembly: System.Reflection.AssemblyTitleAttribute("bucles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

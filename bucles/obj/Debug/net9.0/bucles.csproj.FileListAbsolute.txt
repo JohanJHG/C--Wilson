@@ -1,0 +1,15 @@
+C:\Users\johan\Desktop\C#-Wilson\bucles\bin\Debug\net9.0\bucles.exe
+C:\Users\johan\Desktop\C#-Wilson\bucles\bin\Debug\net9.0\bucles.deps.json
+C:\Users\johan\Desktop\C#-Wilson\bucles\bin\Debug\net9.0\bucles.runtimeconfig.json
+C:\Users\johan\Desktop\C#-Wilson\bucles\bin\Debug\net9.0\bucles.dll
+C:\Users\johan\Desktop\C#-Wilson\bucles\bin\Debug\net9.0\bucles.pdb
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.AssemblyInfo.cs
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.sourcelink.json
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.dll
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\refint\bucles.dll
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.pdb
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\bucles.genruntimeconfig.cache
+C:\Users\johan\Desktop\C#-Wilson\bucles\obj\Debug\net9.0\ref\bucles.dll
