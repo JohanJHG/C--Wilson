@@ -1,0 +1,15 @@
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\bin\Debug\net9.0\ControlStock.exe
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\bin\Debug\net9.0\ControlStock.deps.json
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\bin\Debug\net9.0\ControlStock.runtimeconfig.json
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\bin\Debug\net9.0\ControlStock.dll
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\bin\Debug\net9.0\ControlStock.pdb
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.AssemblyInfo.cs
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.sourcelink.json
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.dll
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\refint\ControlStock.dll
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.pdb
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ControlStock.genruntimeconfig.cache
+C:\Users\johan\Desktop\C#-Wilson\ControlStock\obj\Debug\net9.0\ref\ControlStock.dll

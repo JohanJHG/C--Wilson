@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("actividadCajero")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ControlStock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75b7b6055cc403087c02b345071d5e2de2f6cc30")]
-[assembly: System.Reflection.AssemblyProductAttribute("actividadCajero")]
-[assembly: System.Reflection.AssemblyTitleAttribute("actividadCajero")]
+[assembly: System.Reflection.AssemblyProductAttribute("ControlStock")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ControlStock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

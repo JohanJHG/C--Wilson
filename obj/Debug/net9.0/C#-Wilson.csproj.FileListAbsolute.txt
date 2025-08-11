@@ -12,3 +12,4 @@ C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\refint\C#-Wilson.dll
 C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.pdb
 C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.genruntimeconfig.cache
 C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\ref\C#-Wilson.dll
+C:\Users\johan\Desktop\C#-Wilson\obj\Debug\net9.0\C#-Wilson.sourcelink.json
