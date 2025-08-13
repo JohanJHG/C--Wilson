@@ -1,0 +1,15 @@
+C:\Users\johan\Desktop\C#-Wilson\encuesta\bin\Debug\net9.0\encuesta.exe
+C:\Users\johan\Desktop\C#-Wilson\encuesta\bin\Debug\net9.0\encuesta.deps.json
+C:\Users\johan\Desktop\C#-Wilson\encuesta\bin\Debug\net9.0\encuesta.runtimeconfig.json
+C:\Users\johan\Desktop\C#-Wilson\encuesta\bin\Debug\net9.0\encuesta.dll
+C:\Users\johan\Desktop\C#-Wilson\encuesta\bin\Debug\net9.0\encuesta.pdb
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.AssemblyInfoInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.AssemblyInfo.cs
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.sourcelink.json
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.dll
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\refint\encuesta.dll
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.pdb
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\encuesta.genruntimeconfig.cache
+C:\Users\johan\Desktop\C#-Wilson\encuesta\obj\Debug\net9.0\ref\encuesta.dll
